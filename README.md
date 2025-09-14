@@ -20,7 +20,10 @@ This project is a **frontend clone of Spotify**, designed to replicate the look 
 
 1. **Clone the repository**  
    ```bash
-   
-Open index.html in your preferred web browser.
+   https://github.com/yashika0432/SPOTIFY-UI
+2. Open index.html in your preferred web browser.
+3. Explore playlists, play sample tracks, and enjoy the Spotify-like experience.
 
-Explore playlists, play sample tracks, and enjoy the Spotify-like experience.
+## 🤝 Contributing
+Pull requests are welcome! 
+For major changes, please open an issue first to discuss what you’d like to change.
