@@ -14,7 +14,7 @@ This project is a **frontend clone of Spotify**, designed to replicate the look 
 ## 💻 Technologies Used
 
 - **HTML5** – Website structure  
-- **CSS** – Styling and layout (Flexbox/Grid)  
+- **CSS** – Styling and layout
 
 ## ⚡ How to Run
 
