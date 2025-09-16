@@ -9,7 +9,7 @@ This project is a **frontend clone of Spotify**, designed to replicate the look 
 - **Browse Section** to explore albums, artists, and playlists.  
 - **Search Simulation** (frontend only, no backend integration).  
 
-> Note: All music and playlists are simulated for frontend demonstration purposes only.
+> Note: All music and playlists are simulated for frontend purposes only.
 
 ## 💻 Technologies Used
 
